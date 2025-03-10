@@ -83,9 +83,9 @@
 <p>
   <ul style="list-style-type: none; padding: 0;">
     <li><a href="https://github.com/sid2364/dna-sequences-pg-extension" style="color: #6a0dad;">PostgreSQL extension for storing and analyzing DNA sequences, focusing on k-mer analysis.</a></li>
-    <li><a href="https://github.com/gkrampah/Sentiment-analysis" style="color: #6a0dad;">Sentiment Analysis project.</a></li>
-    <li><a href="https://github.com/gkrampah/Building-a-Compiler-Translating-GILLES-Language-to-LLVM-Intermediate-Representation" style="color: #6a0dad;">Building a Compiler: Translating GILLES Language to LLVM Intermediate Representation.</a></li>
-    <li><a href="https://github.com/gkrampah/In-Memory_db_benchmark" style="color: #6a0dad;">In-Memory Database Benchmark project.</a></li>
+    <li><a href="https://github.com/ayaift/Sentiment-analysis" style="color: #6a0dad;">Sentiment Analysis project.</a></li>
+    <li><a href="https://github.com/ayaift/Building-a-Compiler-Translating-GILLES-Language-to-LLVM-Intermediate-Representation" style="color: #6a0dad;">Building a Compiler: Translating GILLES Language to LLVM Intermediate Representation.</a></li>
+    <li><a href="https://github.com/ayaift/In-Memory_db_benchmark" style="color: #6a0dad;">In-Memory Database Benchmark project.</a></li>
   </ul>
 </p>
 
