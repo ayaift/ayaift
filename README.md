@@ -1,27 +1,25 @@
-<!-- This file is adapted from https://github.com/DenverCoder1/DenverCoder1/blob/main/README.md -->
-
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/gkrampah/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=800080&width=435&height=53&separator=%3C&lines=I+am+a+Computer+Science+Student" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=6a0dad&width=435&height=53&separator=%3C&lines=I+am+a+Computer+Science+Student" />
   </a>
 </p>
 
-<h3 style="color: purple; text-align: center;">💬 Contact Information</h3>
+<h3 style="color: #6a0dad; text-align: center;">💬 Contact Information</h3>
 <p align="center">
   <ul style="list-style-type: none; padding: 0; text-align: center;">
     <li style="font-size: 18px; margin-bottom: 10px;">
-      📧 <strong>Email:</strong> <a href="mailto:ayaift722@gmail.com" style="color: #800080;">ayaift722@gmail.com</a>
+      📧 <strong>Email:</strong> <a href="mailto:ayaift722@gmail.com" style="color: #6a0dad;">ayaift722@gmail.com</a>
     </li>
     <li style="font-size: 18px; margin-bottom: 10px;">
-      🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/aya-iftissen-47b669255" style="color: #800080;">Aya Iftissen</a>
+      🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/aya-iftissen-47b669255" style="color: #6a0dad;">Aya Iftissen</a>
     </li>
   </ul>
 </p>
 
----
+<hr style="border: 1px solid #6a0dad;">
 
-<h3 style="color: purple;">🛠️ My Skills & Technologies</h3>
+<h3 style="color: #6a0dad;">🛠️ My Skills & Technologies</h3>
 
 #### 👨‍💻 Programming Languages & Tools
 <p>
@@ -79,30 +77,16 @@
   <img src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white" alt="LaTeX"/>
 </p>
 
----
+<hr style="border: 1px solid #6a0dad;">
 
-<h3 style="color: purple;">🔥 My Projects</h3>
+<h3 style="color: #6a0dad;">🔥 My Projects</h3>
 <p>
-  <ul style="list-style-type: none;">
-    <li><a href="https://github.com/sid2364/dna-sequences-pg-extension">PostgreSQL extension for storing and analyzing DNA sequences, focusing on k-mer analysis.</a></li>
-    <li><a href="https://github.com/gkrampah/Sentiment-analysis">Sentiment Analysis project.</a></li>
-    <li><a href="https://github.com/gkrampah/Building-a-Compiler-Translating-GILLES-Language-to-LLVM-Intermediate-Representation">Building a Compiler: Translating GILLES Language to LLVM Intermediate Representation.</a></li>
-    <li><a href="https://github.com/gkrampah/In-Memory_db_benchmark">In-Memory Database Benchmark project.</a></li>
+  <ul style="list-style-type: none; padding: 0;">
+    <li><a href="https://github.com/sid2364/dna-sequences-pg-extension" style="color: #6a0dad;">PostgreSQL extension for storing and analyzing DNA sequences, focusing on k-mer analysis.</a></li>
+    <li><a href="https://github.com/gkrampah/Sentiment-analysis" style="color: #6a0dad;">Sentiment Analysis project.</a></li>
+    <li><a href="https://github.com/gkrampah/Building-a-Compiler-Translating-GILLES-Language-to-LLVM-Intermediate-Representation" style="color: #6a0dad;">Building a Compiler: Translating GILLES Language to LLVM Intermediate Representation.</a></li>
+    <li><a href="https://github.com/gkrampah/In-Memory_db_benchmark" style="color: #6a0dad;">In-Memory Database Benchmark project.</a></li>
   </ul>
 </p>
 
----
-
-<!--
-**gkrampah/gkrampah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr style="border: 1px solid #6a0dad;">
