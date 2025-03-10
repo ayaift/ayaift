@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<h3 align="center" style="color: purple;">💬 Contact Information</h3>
+<h3 style="color: purple;">💬 Contact Information</h3>
 <p align="center">
   <ul style="list-style-type:none;">
     <li>📧 <strong>Email:</strong> ayaift722@gmail.com</li>
