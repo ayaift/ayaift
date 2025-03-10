@@ -7,11 +7,15 @@
   </a>
 </p>
 
-<h3 style="color: purple;">💬 Contact Information</h3>
+<h3 style="color: purple; text-align: center;">💬 Contact Information</h3>
 <p align="center">
-  <ul style="list-style-type:none;">
-    <li>📧 <strong>Email:</strong> ayaift722@gmail.com</li>
-    <li>🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/ayaift722">Aya Iftissen</a></li>
+  <ul style="list-style-type: none; padding: 0; text-align: center;">
+    <li style="font-size: 18px; margin-bottom: 10px;">
+      📧 <strong>Email:</strong> <a href="mailto:ayaift722@gmail.com" style="color: #800080;">ayaift722@gmail.com</a>
+    </li>
+    <li style="font-size: 18px; margin-bottom: 10px;">
+      🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/ayaift722" style="color: #800080;">Aya Iftissen</a>
+    </li>
   </ul>
 </p>
 
