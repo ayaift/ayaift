@@ -28,13 +28,6 @@
   <img src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white" alt="PHP"/>
 </p>
 
-#### 🧰 Data Science & Machine Learning
-<p>
-  <img src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white" alt="Numpy"/>
-  <img src="https://img.shields.io/badge/Scipy-8B8B7A.svg?logo=scipy&logoColor=white" alt="Scipy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white" alt="Pandas"/>
-</p>
-
 #### 🗄️ Databases & Data Management
 <p>
   <img src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white" alt="SQL"/>
@@ -56,6 +49,13 @@
   <img src="https://img.shields.io/badge/UML-000000.svg?logo=uml&logoColor=white" alt="UML"/>
   <img src="https://img.shields.io/badge/Merise-66C2A6.svg?logo=merise&logoColor=white" alt="Merise"/>
   <img src="https://img.shields.io/badge/Matplotlib-FF7F0E.svg?logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+</p>
+
+#### 🧰 Data Science & Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white" alt="Numpy"/>
+  <img src="https://img.shields.io/badge/Scipy-8B8B7A.svg?logo=scipy&logoColor=white" alt="Scipy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white" alt="Pandas"/>
 </p>
 
 #### 🖥️ Operating Systems
