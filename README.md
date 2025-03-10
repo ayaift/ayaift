@@ -14,7 +14,7 @@
       📧 <strong>Email:</strong> <a href="mailto:ayaift722@gmail.com" style="color: #800080;">ayaift722@gmail.com</a>
     </li>
     <li style="font-size: 18px; margin-bottom: 10px;">
-      🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/ayaift722" style="color: #800080;">Aya Iftissen</a>
+      🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/ayaift722(https://www.linkedin.com/in/aya-iftissen-47b669255/)" style="color: #800080;">Aya Iftissen</a>
     </li>
   </ul>
 </p>
