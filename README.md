@@ -86,8 +86,8 @@
     <li><a href="https://github.com/ayaift/Sentiment-analysis" style="color: #6a0dad;">Sentiment Analysis project.</a></li>
     <li><a href="https://github.com/ayaift/Building-a-Compiler-Translating-GILLES-Language-to-LLVM-Intermediate-Representation" style="color: #6a0dad;">Building a Compiler: Translating GILLES Language to LLVM Intermediate Representation.</a></li>
     <li><a href="https://github.com/ayaift/In-Memory_db_benchmark" style="color: #6a0dad;">In-Memory Database Benchmark project.</a></li>
-  </ul>
    <li><a href="https://github.com/ayaift/end-of-studies_management_project" style="color: #6a0dad;">Development of a web application for managing DUT project defenses.</a></li>
+ </ul>
 </p>
 
 <hr style="border: 1px solid #6a0dad;">
